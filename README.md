@@ -1,12 +1,18 @@
-# Python-Projects
 
-Project-1-snake-game<br>
-Project-2-flappy-bird-game<br>
-Project-3-tetris-game<br>
-Project-4-space-invaders-game<br>
-Project-5-pac-man-game<br>
-Project-6-2048-game<br>
-Project-7-spaceship-shooter-game<br>
-Project-8-vampire-survivor-game<br>
-Project-9-chess-game<br>
-Project-10-monster-hunter-game<br>
+Python Projects
+
+1. Project 1 : Snake Game (Frontend)
+2. Project 2 : Flappy Bird Game (Frontend)
+3. Project 3 : Tetris Game (Frontend)
+4. Project 4 : Space Invaders Game (Frontend)
+5. Project 5 : Pac Man Game (Frontend)
+6. Project 6 : 2048 Game (Frontend)
+7. Project 7 : Spaceship Shooter Game (Frontend)
+8. Project 8 : Vampire Survivor Game (Frontend)
+9. Project 9 : Chess Game (Frontend)
+10. Project 10 : Monster Hunter Game (Frontend)
+
+---------------------------------------------------------
+
+Python Setup
+1. Using VS Code
